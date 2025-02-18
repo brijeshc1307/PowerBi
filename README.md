@@ -25,7 +25,7 @@ A comprehensive guide to essential data analytics concepts using **Power BI** an
 Feel free to contribute by adding new examples, case studies, or best practices!  
 
 ## 📩 **Contact**  
-For queries or suggestions, reach out via [email](chaudharybrijesh13@gmail.com) or [LinkedIn](https://www.linkedin.com/in/brijeshchaudhary13/).  
+For queries or suggestions, reach out via [email](mailto:chaudharybrijesh0007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/brijeshchaudhary13/).  
 
 ---
 
